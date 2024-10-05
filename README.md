@@ -51,15 +51,9 @@ Check out the live demo of EatEasy [**here**](https://your-demo-link-here.com).
 ## 🙋‍♂️ Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
+<a href="mailto:liel1939@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/lielbsh"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/liel-benshmuel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 <hr/> 
